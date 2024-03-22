@@ -5,7 +5,7 @@ import {
   Typography,
 } from "@mui/material";
 import * as React from "react";
-import Card from "@mui/material/Card";
+import Card from "@mui/material/Card";cle
 import CardMedia from "@mui/material/CardMedia";
 import { CardActionArea } from "@mui/material";
 import "../Components/Home.css";
